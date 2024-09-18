@@ -8,5 +8,17 @@ Before joining the PhD program, I obtained my BS in Statistics and Data Science 
 
 For chats about research ideas, potential collaborations, music, or books, feel free to reach out at liuxh[at]upenn[dot]edu!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Research Interests
+
+- **Causal Inference**  
+- **Hypothesis Testing**
+
+## Education
+
+- **PhD in Biostatistics**  
+  The University of Pennsylvania, tbd
+- **BS in Statistics and Data Science (Mathematical Sciences Track)**  
+  Carnegie Mellon University, May 2024
+
 

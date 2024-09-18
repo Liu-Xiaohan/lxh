@@ -1,0 +1,50 @@
+---
+title: "Music"
+---
+
+Music has always been an important part of my life. I played flute in my middle school band, high school marching band, wind ensmeble, full orchestra, <a href=https://www.tmea.org/band/>TMEA</a> Region Band, Orchestra, and All-State Band. At CMU, I was lucky to continue playing as part of the <a href=http://alluniversityorchestra.org/>All-University Orchestra</a>. 
+
+## Current Obsessions 
+
+<div>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3XOFx2A5iGm3L99jxWPexS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1AMFO2rMwxrPIYT4ZX4mlB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## S-tier Pieces 
+
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0NwyxchEawg8eL8EO2A1DZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </td>
+    <td>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0v3T6fPnrptRXOrd854hIl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1ROWEd9Ni60Rcf3KC9w51h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </td>
+    <td>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/13tToAeuqyGGdSm0XfWg7V?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6dbXY2pTfsTukuZ1nTGBsd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </td>
+    <td>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Sy5Gvd6rn4So7B3glaWhM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </td>
+  </tr>
+</table>
+
+
+
+
+## Concerts 
+
+<a href=https://docs.google.com/spreadsheets/d/1dvD4Ui486otI8z9Y8t4mGvf_C-h4lSAMFyK0NxQa6wM/edit?usp=sharing>Here</a> is a very rough list-in-progress of concerts I have played in or attended. I am looking forward to adding concerts from ensembles in and around Philadelphia.  
+
