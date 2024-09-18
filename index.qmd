@@ -1,11 +1,12 @@
 ---
-title: "lxh"
+title: "Xiaohan Liu"
 ---
 
-This is a Quarto website.
+Hello! I am a first-year Biostatistics PhD student at the University of Pennsylvania. I broadly interested in topics under causal inference.
+
+Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.
+
+For chats about research ideas, potential collaborations, music, or books, feel free to reach out at liuxh[at]upenn[dot]edu!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
