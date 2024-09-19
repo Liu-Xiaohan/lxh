@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "lxh"
@@ -15,6 +16,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    
+
 
 
 
