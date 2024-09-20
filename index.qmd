@@ -2,26 +2,27 @@
 title: "Xiaohan Liu"
 ---
 
-Hello! I am a first-year Biostatistics PhD student at the University of Pennsylvania. I broadly interested in topics under causal inference.
+
+![](images/profile-picture.jpg){.profile-img}
+
+
+I am a first-year Biostatistics PhD student at the University of Pennsylvania broadly interested in topics under causal inference and survival analysis.
 
 Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.
 
 For chats about research ideas, potential collaborations, music, or books, feel free to reach out at liuxh[at]upenn[dot]edu!
 
+<br>
 
-## Research Interests
-
-- **Causal Inference**  
-- **Hypothesis Testing**
-
-## Education
+### Education
 
 - **PhD in Biostatistics**  
-  The University of Pennsylvania, tbd
+  The University of Pennsylvania, TBD
 - **BS in Statistics and Data Science (Mathematical Sciences Track)**  
   Carnegie Mellon University, May 2024
 
 
 <footer style="text-align: center; padding: 10px; font-size: 12px; position: relative; bottom: 50; width: 100%;">
-  <p>I took inspiration for this website from fellow music lover.</p>
+  <p>I took inspiration for this website from ---.</p>
 </footer>
+

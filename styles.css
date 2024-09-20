@@ -1,1 +1,11 @@
 /* css styles */
+
+.profile-img {
+    width: 200px; /* Set desired width */
+    height: 200px; /* Set desired height */
+    border-radius: 50%; /* Makes the image round */
+    object-fit: cover; /* Ensures the image covers the area */
+    float: left; /* Keeps the image on the left side */
+    margin-right: 15px; /* Space to the right */
+    margin-bottom: 50px; /* Space below */
+}
