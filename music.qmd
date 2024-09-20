@@ -10,6 +10,13 @@ At CMU, I was lucky to continue playing as part of the <a href=http://allunivers
 ## Concerts 
 
 <a href=https://docs.google.com/spreadsheets/d/1dvD4Ui486otI8z9Y8t4mGvf_C-h4lSAMFyK0NxQa6wM/edit?usp=sharing>Here</a> is a very rough list-in-progress of concerts I have played in or attended. I am looking forward to adding concerts from ensembles in and around Philadelphia. 
+```{r, message=F, warning-F, echo=F}
+library(dplyr)
+library(reactable)
+concerts.dat <- read.csv("concerts.csv") %>% 
+  mutate(Date=as.Date(Date, "%m/%d/%Y"))
+reactable(concerts.dat, defaultSorted = list(Date= "desc"))
+```
 
 
 ## Current Obsessions 
