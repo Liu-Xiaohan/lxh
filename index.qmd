@@ -14,6 +14,13 @@ For chats about research ideas, potential collaborations, music, or books, feel 
 
 <br>
 
+### Research Interests
+
+- Causal inference from observational data, particularly regarding distributional shifts 
+- Survival analysis 
+
+
+
 ### Education
 
 - **PhD in Biostatistics**  

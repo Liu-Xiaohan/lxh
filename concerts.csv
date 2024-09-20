@@ -1,23 +1,23 @@
-Pieces,Composers,Ensemble,Date,Conductor ,Venue ,"City, State",Soloists ,Part Played ,Price 
-Paris Sketches; Japanese Suite; Irish Tune from County Derry,Martin Ellerbby; Gustav Holst; Percy Grainger,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,0
-??;??;?? region band ,,,,,,"League City, TX",,Flute 2,0
-Polovestian Dances; Shepard's Hey;??,,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,0
-??;??;?? region band ,,,,,,"League City, TX",,Flute 2,0
-Festive Oveture; Karelia Oveture; Conga del Fuego Nuevo,Dmitri Shostakovich; Jean Sibelious; Arturo Márquez,TMEA Region 17 Symphony Orchestra ,11/18/2017,Andrzej Grabiec,Clear Falls High School,"League City, TX",,Flute 2,0
-Molly on the Shore; ??;??,,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,0
-??;??;?? region band ,,,,,,"League City, TX",,Flute 1,0
-Suite No 2 from Three Cornered Hat; Oveture to Candide,Manuel de Falla; Leonard Bernstein,TMEA Region 17 Symphony Orchestra ,11/17/2018,Jacob Sustaita,Clear Springs High School,"League City, TX",,Flute 2,0
-??;??;?? region band ,,,,,,"League City, TX",,Flute 1,0
-Polovestian Dances; Espana: Rhapsody for Orchestra; Pelleas et Melisande Suite - Prelude,Alexander Borodin; Emmanuel Chabrier; Gabriel Faure,TMEA Region 17 Symphony Orchestra ,11/23/2019,Mark Dupere,Clear Falls High School,"League City, TX",,Flute 1,0
-Magnolia Star; Point Blank; The Engulfed Cathedral; Symphony No. 3 Slavyanskaya; The Ringmaster's March ,Steven Danyew; Paul Dooley; Claude Debussy arr. Merlin Patterson; Boris Kozhevnikov arr. John Bourgeois; John Mackey,2020 TMEA All-State Concert Band ,2/15/2020,Robert Ambrose,Lila Cockrell Theatre,"San Antonio, TX",,Flute 3,0
-Epitaph for a Man Who Dreamed; Billy the Kid Suite,Adolphus Hailstork; Aaron Copland,CMU All-University Orchestra ,12/5/2021,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,0
-Photons; blue cathedral ,Nancy Galbraith; Jennifer Higdon,CMU All-University Orchestra ,4/3/2022,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 1,0
-Tchaikovsky Symphony Nr. 6,Pyotr Ilyich Tchaikovsky,CMU All-University Orchestra ,12/4/2022,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,0
-Ma Vlast ,Bedřich Smetana,CMU All-University Orchestra ,4/23/2023,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,0
-Symphony No. 1,Jean Sibelius ,CMU All-University Orchestra ,12/10/2023,Jeffrey Klefstad ,Soldiers and Sailors Memorial Hall ,"Pittsburgh, PA",,Flute 2,0
-Brahms Symphony No. 2 in D Major ,Johannes Brahms ,CMU All-University Orchestra ,4/7/2024,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 1,0
-Pictures on an Exhibition; Thunderbolt P-47; Prokofiev Piano Concerto No. 3,Modest Mussorgsky; Bohuslav Martinu; Sergei Prokofiev,Pittsburgh Symphony Orchestra ,1/13/2024,Petr Popelka,Heinz Hall ,"Pittsburgh, PA",Yulianna Avdeeva (piano),Audience,10
-Dvorak Symphony No. 7; musica pyralis; Shostakovich Cello Concerto No. 1,Anton Dvorak; Katherine Balch; Dmitri Shostakovich ,Pittsburgh Symphony Orchestra ,2/18/2024,Manfred Honeck ,Heinz Hall ,"Pittsburgh, PA",Pablo Ferrández (cello),Audience,10
-Rachmaninoff Piano Concerto No. 3; Liszt Dante Symphony ,,Pittsburgh Symphony Orchestra ,4/19/2024,Manfred Honeck ,Heinz Hall ,"Pittsburgh, PA",Leif Ove Andsnes (piano); The Mendelssohn Choir of Pittsburgh,Audience,10
-An American in Paris; Suite from Ma Mère l'Oye (Mother Goose); Piano Concerto for the Left Hand; Suite from Les biches (The Does),George Gershwin; Maurice Ravel; Maurice Ravel; Francis Poulenc,Pittsburgh Symphony Orchestra ,5/19/2024,Stéphane Denève,Heinz Hall ,"Pittsburgh, PA",Cédric Tiberghien (piano),Audience,10
-Symphony No. 3,Gustav Mahler ,Philadelphia Orchestra ,10/4/2024,Yannick Nézet-Séguin,Marian Anderson Hall,"Philadelphia, PA",Joyce DiDonato (Mezzo-Soprano),Audience,30
+Pieces,Composers,Ensemble,Date,Conductor ,Venue ,Location,Soloists ,Part ,Price 
+Paris Sketches; Japanese Suite; Irish Tune from County Derry,Martin Ellerbby; Gustav Holst; Percy Grainger,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,
+??;??;?? region band ,,,,,,"League City, TX",,Flute 2,
+Polovestian Dances; Shepard's Hey;??,,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,
+??;??;?? region band ,,,,,,"League City, TX",,Flute 2,
+Festive Oveture; Karelia Oveture; Conga del Fuego Nuevo,Dmitri Shostakovich; Jean Sibelious; Arturo Márquez,TMEA Region 17 Symphony Orchestra ,2017-11-18,Andrzej Grabiec,Clear Falls HS,"League City, TX",,Flute 2,
+Molly on the Shore; ??;??,,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,
+??;??;?? region band ,,,,,,"League City, TX",,Flute 1,
+Suite No 2 from Three Cornered Hat; Oveture to Candide,Manuel de Falla; Leonard Bernstein,TMEA Region 17 Symphony Orchestra ,2018-11-17,Jacob Sustaita,Clear Springs HS,"League City, TX",,Flute 2,
+??;??;?? region band ,,,,,,"League City, TX",,Flute 1,
+Polovestian Dances; Espana: Rhapsody for Orchestra; Pelleas et Melisande Suite - Prelude,Alexander Borodin; Emmanuel Chabrier; Gabriel Faure,TMEA Region 17 Symphony Orchestra ,2019-11-23,Mark Dupere,Clear Falls HS,"League City, TX",,Flute 1,
+Magnolia Star; Point Blank; The Engulfed Cathedral; Symphony No. 3 Slavyanskaya; The Ringmaster's March ,Steven Danyew; Paul Dooley; Claude Debussy arr. Merlin Patterson; Boris Kozhevnikov arr. John Bourgeois; John Mackey,2020 TMEA All-State Concert Band ,2020-02-15,Robert Ambrose,Lila Cockrell Theatre,"San Antonio, TX",,Flute 3,
+Epitaph for a Man Who Dreamed; Billy the Kid Suite,Adolphus Hailstork; Aaron Copland,CMU All-University Orchestra ,2021-12-05,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,
+Photons; blue cathedral ,Nancy Galbraith; Jennifer Higdon,CMU All-University Orchestra ,2022-04-03,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 1,
+Tchaikovsky Symphony Nr. 6,Pyotr Ilyich Tchaikovsky,CMU All-University Orchestra ,2022-12-04,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,
+Ma Vlast ,Bedřich Smetana,CMU All-University Orchestra ,2023-04-23,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,
+Symphony No. 1,Jean Sibelius ,CMU All-University Orchestra ,2023-12-10,Jeffrey Klefstad ,Soldiers and Sailors Memorial Hall ,"Pittsburgh, PA",,Flute 2,
+Brahms Symphony No. 2 in D Major ,Johannes Brahms ,CMU All-University Orchestra ,2024-04-07,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 1,
+Pictures on an Exhibition; Thunderbolt P-47; Prokofiev Piano Concerto No. 3,Modest Mussorgsky; Bohuslav Martinu; Sergei Prokofiev,Pittsburgh Symphony Orchestra ,2024-01-13,Petr Popelka,Heinz Hall ,"Pittsburgh, PA",Yulianna Avdeeva (piano),Audience,10
+Dvorak Symphony No. 7; musica pyralis; Shostakovich Cello Concerto No. 1,Anton Dvorak; Katherine Balch; Dmitri Shostakovich ,Pittsburgh Symphony Orchestra ,2024-02-18,Manfred Honeck ,Heinz Hall ,"Pittsburgh, PA",Pablo Ferrández (cello),Audience,10
+Rachmaninoff Piano Concerto No. 3; Liszt Dante Symphony ,,Pittsburgh Symphony Orchestra ,2024-04-19,Manfred Honeck ,Heinz Hall ,"Pittsburgh, PA",Leif Ove Andsnes (piano); The Mendelssohn Choir of Pittsburgh,Audience,10
+An American in Paris; Suite from Ma Mère l'Oye (Mother Goose); Piano Concerto for the Left Hand; Suite from Les biches (The Does),George Gershwin; Maurice Ravel; Maurice Ravel; Francis Poulenc,Pittsburgh Symphony Orchestra ,2024-05-19,Stéphane Denève,Heinz Hall ,"Pittsburgh, PA",Cédric Tiberghien (piano),Audience,10
+Symphony No. 3,Gustav Mahler ,Philadelphia Orchestra ,2024-10-04,Yannick Nézet-Séguin,Marian Anderson Hall,"Philadelphia, PA",Joyce DiDonato (Mezzo-Soprano),Audience,30
