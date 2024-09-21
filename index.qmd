@@ -8,9 +8,7 @@ title: "Xiaohan Liu"
 
 I am a first-year Biostatistics PhD student at the University of Pennsylvania broadly interested in topics surrounding assumption-lean inference.
 
-Some things that I am currently curious about are: *Causal inference* from observational data; Hypothesis testing under *distributional shifts*; *Distribution free* inference; Selective inference
-
-
+Some words that catch my attention are *causality*, *distributional shifts*,  *distribution free*, and *post-selection inference*. 
 
 
 Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.
