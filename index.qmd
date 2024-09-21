@@ -6,18 +6,19 @@ title: "Xiaohan Liu"
 ![](images/profile-picture.jpg){.profile-img}
 
 
-I am a first-year Biostatistics PhD student at the University of Pennsylvania broadly interested in topics under causal inference and survival analysis.
+I am a first-year Biostatistics PhD student at the University of Pennsylvania broadly interested in topics under causal inference and selective inference.
 
 Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.
 
-For chats about research ideas, potential collaborations, music, or books, feel free to reach out at liuxh[at]upenn[dot]edu!
+For chats about research ideas, potential collaborations, music, or <a href=https://www.goodreads.com/user/show/159086831-xiaohan>books</a>, feel free to reach out at liuxh[at]upenn[dot]edu!
 
 <br>
 
 ### Research Interests
 
-- Causal inference from observational data, particularly regarding distributional shifts 
-- Survival analysis 
+- Causal inference from observational data 
+- Hypothesis testing under distributional shifts
+- Selective inference
 
 
 

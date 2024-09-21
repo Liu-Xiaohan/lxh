@@ -14,8 +14,8 @@ Here is a very rough list-in-progress of concerts I have played in, attended, or
 ```{r, message=F, warning-F, echo=F}
 library(dplyr)
 library(reactable)
-concerts.dat <- read.csv("concerts.csv") 
-
+concerts.dat <- read.csv("concerts.csv") %>% 
+  mutate(Date=as.Date(Date, "%m/%d/%y"))
 reactable(concerts.dat, 
           defaultSorted = list(Date= "desc"), 
           columns = list(

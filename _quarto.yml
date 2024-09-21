@@ -10,7 +10,6 @@ website:
         text: Home
       - projects.qmd
       - music.qmd
-      - books.qmd
 
 format:
   html:
