@@ -27,6 +27,6 @@ For chats about research ideas, potential collaborations, music, or <a href=http
 
 
 <footer style="text-align: center; padding: 10px; font-size: 12px; position: relative; bottom: 50; width: 100%;">
-  <p>I took inspiration for this website from ---.</p>
+  <p>I took inspiration for this website from others.</p>
 </footer>
 

@@ -6,7 +6,7 @@ I played flute in my middle school band, high school marching band, wind ensembl
 
 At CMU, I was lucky to continue playing as part of the <a href=http://alluniversityorchestra.org/>All-University Orchestra</a>. 
 
-Besides orchestral music, I enjoy listening to piano and Studio Ghibli soundtracks. 
+I primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorites are Sibelius, <a href=https://en.wikipedia.org/wiki/The_Five_(composers)>The Mighty Five</a>, Tchaikovsky, Rachmaninoff, and Bruckner. Besides orchestral music, I enjoy listening to piano and Studio Ghibli soundtracks. 
 
 ## Concerts 
 
@@ -48,7 +48,7 @@ reactable(concerts.dat,
 <table style="width: 100%;">
   <tr>
     <td>
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0NwyxchEawg8eL8EO2A1DZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1dpMBUYVpXj1tWLT4eEO7S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </td>
     <td>
       <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0v3T6fPnrptRXOrd854hIl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -67,10 +67,11 @@ reactable(concerts.dat,
       <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6dbXY2pTfsTukuZ1nTGBsd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </td>
     <td>
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Sy5Gvd6rn4So7B3glaWhM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0NwyxchEawg8eL8EO2A1DZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </td>
   </tr>
 </table>
+
 
 
 
