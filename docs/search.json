@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Xiaohan Liu",
     "section": "",
-    "text": "I am a first-year Biostatistics PhD student at the University of Pennsylvania broadly interested in topics surrounding assumption-lean inference.\nSome words that catch my attention are causality, distributional shifts, distribution free, and post-selection inference.\nBefore joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.\nFor chats about research ideas, potential collaborations, music, or books, feel free to reach out at liuxh[at]upenn[dot]edu!\n\n\nEducation\n\nPhD in Biostatistics\nThe University of Pennsylvania, TBD\nBS in Statistics and Data Science (Mathematical Sciences Track)\nCarnegie Mellon University, May 2024\n\n\n\nI took inspiration for this website from —."
+    "text": "I am a first-year Biostatistics PhD student at the University of Pennsylvania broadly interested in topics surrounding assumption-lean inference.\nSome words that catch my attention are causality, distributional shifts, distribution free, and post-selection inference.\nBefore joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.\nFor chats about research ideas, potential collaborations, music, or books, feel free to reach out at liuxh[at]upenn[dot]edu!\n\n\nEducation\n\nPhD in Biostatistics\nThe University of Pennsylvania, TBD\nBS in Statistics and Data Science (Mathematical Sciences Track)\nCarnegie Mellon University, May 2024\n\n\n\nI took inspiration for this website from others."
   },
   {
     "objectID": "presentation.html",
@@ -18,7 +18,7 @@
     "href": "music.html",
     "title": "Music",
     "section": "",
-    "text": "I played flute in my middle school band, high school marching band, wind ensemble, full orchestra, TMEA Region Band, Orchestra, and All-State Band.\nAt CMU, I was lucky to continue playing as part of the All-University Orchestra.\nI primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorites are Sibelius, The Mighty Five, Tchaikovsky, Rachmaninoff, and Bruckner. Besides orchestral music, I enjoy listening to piano and Studio Ghibli soundtracks."
+    "text": "I played flute in my middle school band, high school marching band, wind ensemble, full orchestra, TMEA Region Band, Orchestra, and All-State Band.\nAt CMU, I was lucky to continue playing as part of the All-University Orchestra.\nI primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorites are Sibelius, The Mighty Five, Tchaikovsky, Rachmaninoff, and Vasily Kalinnikov’s symphonies. Recently, I have been consumed by Mahler’s epic symphonies (No. 2 and 3 are favorites!). Besides orchestral music, I enjoy listening to piano and Studio Ghibli soundtracks."
   },
   {
     "objectID": "music.html#concerts",
@@ -46,13 +46,13 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Fall 2024 Rotation project details to come!"
+    "text": "My Fall 2024 rotation project revolved around the theme of information borrowing to achieve efficiency gains in inference in the clinical trials. We are interested in the setting of hybrid and externally controlled clinical trials where there is a small cohort of individuals enrolled in the trial but there exists a potentially large reference population of individuals who can serve as external controls.\nThere has been many studies on generalizing causal inferences from randomized trials to an external target population but not much work on methods of leveraging external control data to improve the efficiency of inference in clinical trials that omit making strong exchangeability assumptions about the trial and external populations.\nMore details to come in Spring and Summer 2025."
   },
   {
     "objectID": "apples.html",
     "href": "apples.html",
     "title": "Apples",
     "section": "",
-    "text": "I have a slight obsession with apples. Here is a complete ranking of varieties I have tried.\nPazazz - Very similar to Honeycrisp but much juicier. The texture is too watery for me but the flavor is nice, similar to a pear and pineapple\nEvercrisp - Texture is good but honestly too sweet and not much flavor\nCinnamon Spice - Wonderful, spciy flavor.\n\n\n\n\nMutsu: Texture is superior, hard and dense, not too crispy and very juicy. Sweet and floral, sharp, unlike Fuji. Honestly a solid S-tier.\n\n\n\n![](images/winecrisp.jpg)\n&lt;div class=\"overlay\"&gt;Winecrisp: Superior texture, so hard and dense, flavor is great, notes of Bartlett pear, a classic red apple taste\n\n\n\n![](images/suncrisp.jpg)\n&lt;div class=\"overlay\"&gt;Text for Image 3&lt;/div&gt;"
+    "text": "I have a slight obsession with apples. Here is a complete ranking of varieties I have tried.\nPazazz - Very similar to Honeycrisp but much juicier. The texture is too watery for me but the flavor is nice, similar to a pear and pineapple\nEvercrisp - Texture is good but honestly too sweet and not much flavor\nCinnamon Spice - Wonderful, spciy flavor.\nJonagold - Sweet but well rounded flavor, very juicy, texture could be crunchier, reminiscent of Macintosh, flavor is really nice! (A tier)\nCrimson Topaz - Tart! Juicy, cider-y taste, very beautiful flesh, pink/salmon colored (S-tier)\nLudicrisp - very juicy, slightly tart but overall sweet, nice texture but could be harder (A-tier)\nCrimson crisp - nothing special, very good texture solid apple flavor"
   }
 ]

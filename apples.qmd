@@ -1,5 +1,9 @@
 ---
 title: "Apples"
+format: html
+output: 
+  html_document:
+    self_contained: true
 ---
 
 I have a slight obsession with apples. Here is a complete ranking of varieties I have tried. 
@@ -18,21 +22,28 @@ Ludicrisp - very juicy, slightly tart but overall sweet, nice texture but could 
 
 Crimson crisp - nothing special, very good texture solid apple flavor 
 
+<table style="width: 100%;">
+  <tr>
+    <td>
+      ![](images/suncrisp.jpg){.apples-img}
+    </td>
+    <td>
+      ![](images/mutsu.jpg){.apples-img}
+    </td>
+    <td>
+      ![](images/winecrisp.jpg){.apples-img}
+ </tr>
+ <tr>
+    <td>
+      ![](images/crimsoncrisp.jpg){.apples-img}
+    </td>
+    <td>
+      ![](images/ludicrisp.jpg){.apples-img}
+    </td>
+    <td>
+      ![](images/jonagold.jpg){.apples-img}
+    </td>
+  </tr>
+</table>
 
 
-<div class="grid-container">
-  <div class="grid-item">
-  ![](images/mutsu.jpg)
-    <div class="overlay">Mutsu: Texture is superior, hard and dense, not too crispy and very juicy. Sweet and floral, sharp, unlike Fuji. Honestly a solid S-tier.  </div>
-  </div>
-  <div class="grid-item">
-    ![](images/winecrisp.jpg)
-    <div class="overlay">Winecrisp: Superior texture, so hard and dense, flavor is great, notes of Bartlett pear, a classic red apple taste
-</div>
-  </div>
-  <div class="grid-item">
-    ![](images/suncrisp.jpg)
-    <div class="overlay">Text for Image 3</div>
-  </div>
-  <!-- Add more grid items as needed -->
-</div>

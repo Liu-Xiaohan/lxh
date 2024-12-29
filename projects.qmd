@@ -2,6 +2,8 @@
 title: "Projects"
 ---
 
-My Fall 2024 rotation project revolved around the theme of "information borrowing" and efficiency gains in inference. We are interested in the setting of hybrid and externally controlled clinical trials where there is a small cohort of individuals enrolled in the trial but there exists a potentially large reference population of individuals whose counterfactual under no treatment is observed. 
+My Fall 2024 rotation project revolved around the theme of information borrowing to achieve efficiency gains in inference in the clinical trials. We are interested in the setting of hybrid and externally controlled clinical trials where there is a small cohort of individuals enrolled in the trial but there exists a potentially large reference population of individuals who can serve as external controls. 
 
-In Spring 2025, I hope to make progress on 
+There has been many studies on generalizing causal inferences from randomized trials to an external target population but not much work on methods of <i>leveraging external control data</i> to improve the efficiency of inference in clinical trials that omit making strong exchangeability assumptions about the trial and external populations. 
+
+More details to come in Spring and Summer 2025.  
