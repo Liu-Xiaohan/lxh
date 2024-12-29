@@ -2,4 +2,6 @@
 title: "Projects"
 ---
 
-Fall 2024 Rotation project details to come! 
+My Fall 2024 rotation project revolved around the theme of "information borrowing" and efficiency gains in inference. We are interested in the setting of hybrid and externally controlled clinical trials where there is a small cohort of individuals enrolled in the trial but there exists a potentially large reference population of individuals whose counterfactual under no treatment is observed. 
+
+In Spring 2025, I hope to make progress on 

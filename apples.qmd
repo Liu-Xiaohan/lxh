@@ -1,0 +1,38 @@
+---
+title: "Apples"
+---
+
+I have a slight obsession with apples. Here is a complete ranking of varieties I have tried. 
+
+Pazazz - Very similar to Honeycrisp but much juicier. The texture is too watery for me but the flavor is nice, similar to a pear and pineapple 
+
+Evercrisp - Texture is good but honestly too sweet and not much flavor 
+
+Cinnamon Spice - Wonderful, spciy flavor.
+
+Jonagold - Sweet but well rounded flavor, very juicy, texture could be crunchier, reminiscent of Macintosh, flavor is really nice! (A tier)
+
+Crimson Topaz - Tart! Juicy, cider-y taste, very beautiful flesh, pink/salmon colored (S-tier) 
+
+Ludicrisp - very juicy, slightly tart but overall sweet, nice texture but could be harder (A-tier) 
+
+Crimson crisp - nothing special, very good texture solid apple flavor 
+
+
+
+<div class="grid-container">
+  <div class="grid-item">
+  ![](images/mutsu.jpg)
+    <div class="overlay">Mutsu: Texture is superior, hard and dense, not too crispy and very juicy. Sweet and floral, sharp, unlike Fuji. Honestly a solid S-tier.  </div>
+  </div>
+  <div class="grid-item">
+    ![](images/winecrisp.jpg)
+    <div class="overlay">Winecrisp: Superior texture, so hard and dense, flavor is great, notes of Bartlett pear, a classic red apple taste
+</div>
+  </div>
+  <div class="grid-item">
+    ![](images/suncrisp.jpg)
+    <div class="overlay">Text for Image 3</div>
+  </div>
+  <!-- Add more grid items as needed -->
+</div>

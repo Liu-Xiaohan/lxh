@@ -6,7 +6,7 @@ I played flute in my middle school band, high school marching band, wind ensembl
 
 At CMU, I was lucky to continue playing as part of the <a href=http://alluniversityorchestra.org/>All-University Orchestra</a>. 
 
-I primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorites are Sibelius, <a href=https://en.wikipedia.org/wiki/The_Five_(composers)>The Mighty Five</a>, Tchaikovsky, Rachmaninoff, and Bruckner. Besides orchestral music, I enjoy listening to piano and Studio Ghibli soundtracks. 
+I primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorites are Sibelius, <a href=https://en.wikipedia.org/wiki/The_Five_(composers)>The Mighty Five</a>, Tchaikovsky, Rachmaninoff, and Bruckner. Recently, I have been enthralled by Mahler's epic symphonies (No. 2 and 3 are favorites!). Besides orchestral music, I enjoy listening to piano and Studio Ghibli soundtracks. 
 
 ## Concerts 
 
@@ -15,7 +15,8 @@ Here is a very rough list-in-progress of concerts I have played in, attended, or
 library(dplyr)
 library(reactable)
 concerts.dat <- read.csv("concerts.csv") %>% 
-  mutate(Date=as.Date(Date, "%m/%d/%y"))
+  mutate(Date=as.Date(Date, "%m/%d/%y")) %>% 
+  relocate(Date, .before=Pieces)
 reactable(concerts.dat, 
           defaultSorted = list(Date= "desc"), 
           columns = list(
