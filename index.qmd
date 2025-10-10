@@ -1,8 +1,6 @@
 ---
 title: ""
-format:
-  html:
-    css: styles.css 
+css: styles.css 
 ---
 
 ::: {.profile-container}

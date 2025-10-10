@@ -1,42 +1,43 @@
 /* css styles */
 
-
-<div class="profile-container">
-  <img src="images/profile-picture.jpg" class="profile-img" alt="Profile picture">
-
-  <div class="profile-links">
-    <p><strong>Margot [Last name]</strong></p>
-    <p>
-      <a href="docs/Margot_CV.pdf" target="_blank">CV</a> |
-      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a> |
-      <a href="mailto:margot@example.edu">Email</a>
-    </p>
-  </div>
-</div>
-
-/* The main container for image + text */
-.profile-container {
+/* --- Two-column layout --- */
+.page-layout {
   display: flex;
-  flex-direction: column;   /* stack vertically */
-  align-items: flex-start;  /* align to the left edge */
-  margin-left: 40px;        /* push away from page edge if desired */
+  align-items: flex-start;   /* top-align the two columns */
+  gap: 40px;                 /* space between columns */
   margin-top: 2em;
 }
 
-/* Style the image */
+/* Left column (profile) */
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 250px;              /* controls how wide the left column is */
+  flex-shrink: 0;            /* prevents it from shrinking */
+}
+
+/* Image styling */
 .profile-img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
   display: block;
-  margin-bottom: 1em;       /* space between image and text */
+  margin-bottom: 1em;
 }
 
-/* Text and links below the image */
+/* Text under image */
 .profile-links {
-  text-align: left;         /* ensure links are left aligned */
+  text-align: left;
   font-size: 1rem;
+}
+
+/* Right column (main text) */
+.main-content {
+  flex: 1;                   /* takes up the remaining space */
+  text-align: left;
+  max-width: 700px;
 }
 
 .profile-links a {
@@ -48,6 +49,7 @@
 .profile-links a:hover {
   text-decoration: underline;
 }
+
 
 
 .apples-img {
