@@ -4,7 +4,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Margot's Website"
+  title: "LXH"
   site-url: https://liu-xiaohan.github.io/lxh/
 format:
   html:
@@ -12,12 +12,12 @@ format:
     css: styles.css
 ---
 
-My name is Xiaohan, I am a second-year Biostatistics PhD student at the University of Pennsylvania. My interests lie broadly in causal inference. Some words that catch my attention are *efficiency*, *assumption-lean*, and  *personalized/precision medicine*. I am fortunate to be advised by --- and ---
+My name is Xiaohan, I am a second-year Biostatistics PhD student at the University of Pennsylvania. My interests lie broadly in causal inference. Some words that catch my attention are *efficiency*, *assumption-lean*, and  *personalized/precision medicine*.
 
 
-Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.
+Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University in Pittsburgh, PA. 
 
-For chats about research ideas, potential collaborations, music, or <a href=https://www.goodreads.com/user/show/159086831-xiaohan>books</a>, feel free to reach out at liuxh[at]upenn[dot]edu!
+For chats about research and potential collaborations, music, or <a href=https://www.goodreads.com/user/show/159086831-xiaohan>books</a>, feel free to reach out at liuxh[at]upenn[dot]edu!
 
 <br>
 
@@ -25,12 +25,12 @@ For chats about research ideas, potential collaborations, music, or <a href=http
 ### Education
 
 - **PhD in Biostatistics**  
-  The University of Pennsylvania, expected 2029
+  The University of Pennsylvania, Expected 2029
 - **BS in Statistics and Data Science (Mathematical Sciences Track)**  
   Carnegie Mellon University, May 2024
 
 
 <footer style="text-align: center; padding: 10px; font-size: 12px; position: relative; bottom: 50; width: 100%;">
-  <p>I took inspiration for this website from others.</p>
+  <p>I took inspiration for this website from others!</p>
 </footer>
 

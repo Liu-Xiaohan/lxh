@@ -2,15 +2,13 @@
 title: "Music"
 ---
 
-I played flute in my middle school band, high school marching band, wind ensemble, full orchestra, <a href=https://www.tmea.org/band/>TMEA</a> Region Band, Orchestra, and All-State Band. 
+I played flute in my middle school band, high school marching band, wind ensemble, full orchestra, <a href=https://www.tmea.org/band/>TMEA</a> Region Band, Orchestra, and All-State Band. During my years at CMU, I was lucky to continue playing as part of the <a href=http://alluniversityorchestra.org/>All-University Orchestra</a>. 
 
-At CMU, I was lucky to continue playing as part of the <a href=http://alluniversityorchestra.org/>All-University Orchestra</a>. 
-
-I primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorites are Sibelius, <a href=https://en.wikipedia.org/wiki/The_Five_(composers)>The Mighty Five</a>, Tchaikovsky, Rachmaninoff, and Vasily Kalinnikov's symphonies. Recently, I have been interested in Strauss An Alphine Symphony and Mahler's epic symphonies (No. 1, 2, 3 are favorites). Besides orchestral music, I enjoy listening to piano concertos and Studio Ghibli soundtracks. 
+I primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorite composers are Jean Sibelius, <a href=https://en.wikipedia.org/wiki/The_Five_(composers)>The Mighty Five</a>, Pyotr Ilyich Tchaikovsky, Sergei Rachmaninoff, and Maurice Ravel. Recently, I have been interested in Richard Strauss' An Alpine Symphony and Gustav Mahler's epic Symphonies No. 1, 2, and 3. I also enjoy listening to piano concertos and Studio Ghibli soundtracks. 
 
 ## Concerts 
 
-Here is a list-in-progress of concerts I have played in, attended, or plan to attend. 
+This is a list-in-progress of concerts I have played in, attended, or plan to attend. 
 ```{r, message=F, warning-F, echo=F}
 library(dplyr)
 library(reactable)
