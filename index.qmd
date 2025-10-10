@@ -1,16 +1,9 @@
 ---
 title: ""
-css: styles.css 
 ---
 
-::: {.profile-container}
-![](images/profile-picture.jpg){.profile-img}
-**Xiaohan Liu**
 
-[CV](docs/Margot_CV.pdf) · [ORCID](https://orcid.org/0000-0000-0000-0000)
-:::
-
-I am a second-year Biostatistics PhD student at the University of Pennsylvania broadly interested in causal inference. Some words that catch my attention are *efficiency*, *assumption-lean*, and  *personalized/precision medicine*. I am foruntate to be advised by --- and ---
+My name is Xiaohan, I am a second-year Biostatistics PhD student at the University of Pennsylvania. My interests lie broadly in causal inference. Some words that catch my attention are *efficiency*, *assumption-lean*, and  *personalized/precision medicine*. I am fortunate to be advised by --- and ---
 
 
 Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.
