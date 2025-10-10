@@ -1,5 +1,15 @@
 ---
-title: ""
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Margot's Website"
+  site-url: https://liu-xiaohan.github.io/lxh/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
 ---
 
 My name is Xiaohan, I am a second-year Biostatistics PhD student at the University of Pennsylvania. My interests lie broadly in causal inference. Some words that catch my attention are *efficiency*, *assumption-lean*, and  *personalized/precision medicine*. I am fortunate to be advised by --- and ---
