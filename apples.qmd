@@ -6,7 +6,7 @@ output:
     self_contained: true
 ---
 
-I have a slight obsession with apples. Here is a complete ranking of varieties I have tried. 
+I am an apple connoisseur. Here is a complete ranking of varieties I have tried. 
 
 ## S-Tier
 

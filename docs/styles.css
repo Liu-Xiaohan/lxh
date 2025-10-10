@@ -1,13 +1,52 @@
 /* css styles */
 
+
+<div class="profile-container">
+  <img src="images/profile-picture.jpg" class="profile-img" alt="Profile picture">
+
+  <div class="profile-links">
+    <p><strong>Margot [Last name]</strong></p>
+    <p>
+      <a href="docs/Margot_CV.pdf" target="_blank">CV</a> |
+      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a> |
+      <a href="mailto:margot@example.edu">Email</a>
+    </p>
+  </div>
+</div>
+
+/* The main container for image + text */
+.profile-container {
+  display: flex;
+  flex-direction: column;   /* stack vertically */
+  align-items: flex-start;  /* align to the left edge */
+  margin-left: 40px;        /* push away from page edge if desired */
+  margin-top: 2em;
+}
+
+/* Style the image */
 .profile-img {
-    width: 200px; /* Set desired width */
-    height: 200px; /* Set desired height */
-    border-radius: 50%; /* Makes the image round */
-    object-fit: cover; /* Ensures the image covers the area */
-    float: left; /* Keeps the image on the left side */
-    margin-right: 30px; /* Space to the right */
-    margin-bottom: 80px; /* Space below */
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1em;       /* space between image and text */
+}
+
+/* Text and links below the image */
+.profile-links {
+  text-align: left;         /* ensure links are left aligned */
+  font-size: 1rem;
+}
+
+.profile-links a {
+  text-decoration: none;
+  color: #336699;
+  margin-right: 0.75em;
+}
+
+.profile-links a:hover {
+  text-decoration: underline;
 }
 
 

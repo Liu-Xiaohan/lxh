@@ -1,9 +1,9 @@
-Pieces,Composers,Ensemble,Date,Conductor ,Venue ,Location,Soloists ,Part ,Price 
+﻿Pieces,Composers,Ensemble,Date,Conductor ,Venue ,Location,Soloists ,Part ,Price 
 Paris Sketches; Japanese Suite; Irish Tune from County Derry,Martin Ellerbby; Gustav Holst; Percy Grainger,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,
 ??;??;?? region band ,,,,,,"League City, TX",,Flute 2,
 Polovestian Dances; Shepard's Hey;??,,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,
 ??;??;?? region band ,,,,,,"League City, TX",,Flute 2,
-Festive Oveture; Karelia Oveture; Conga del Fuego Nuevo,Dmitri Shostakovich; Jean Sibelius; Arturo Márquez,TMEA Region 17 Symphony Orchestra ,11/18/17,Andrzej Grabiec,Clear Falls HS,"League City, TX",,Flute 2,
+Festive Oveture; Karelia Oveture; Conga del Fuego Nuevo,Dmitri Shostakovich; Jean Sibelius; Arturo M√°rquez,TMEA Region 17 Symphony Orchestra ,11/18/17,Andrzej Grabiec,Clear Falls HS,"League City, TX",,Flute 2,
 Molly on the Shore; ??;??,,Clear Springs HS Wind Ensemble ,,Lester Williams ,,"League City, TX",,Flute 1,
 ??;??;?? region band ,,,,,,"League City, TX",,Flute 1,
 Suite No 2 from Three Cornered Hat; Oveture to Candide,Manuel de Falla; Leonard Bernstein,TMEA Region 17 Symphony Orchestra ,11/17/18,Jacob Sustaita,Clear Springs HS,"League City, TX",,Flute 2,
@@ -13,15 +13,18 @@ Magnolia Star; Point Blank; The Engulfed Cathedral; Symphony No. 3 Slavyanskaya;
 Epitaph for a Man Who Dreamed; Billy the Kid Suite,Adolphus Hailstork; Aaron Copland,CMU All-University Orchestra ,12/5/21,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,
 Photons; blue cathedral ,Nancy Galbraith; Jennifer Higdon,CMU All-University Orchestra ,4/3/22,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 1,
 Tchaikovsky Symphony Nr. 6,Pyotr Ilyich Tchaikovsky,CMU All-University Orchestra ,12/4/22,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,
-Ma Vlast ,Bedřich Smetana,CMU All-University Orchestra ,4/23/23,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,
+Ma Vlast ,Bed≈ôich Smetana,CMU All-University Orchestra ,4/23/23,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 2,
 Symphony No. 1,Jean Sibelius ,CMU All-University Orchestra ,12/10/23,Jeffrey Klefstad ,Soldiers and Sailors Memorial Hall ,"Pittsburgh, PA",,Flute 2,
 Brahms Symphony No. 2 in D Major ,Johannes Brahms ,CMU All-University Orchestra ,4/7/24,Jeffrey Klefstad ,Carnegie Music Hall ,"Pittsburgh, PA",,Flute 1,
 Pictures on an Exhibition; Thunderbolt P-47; Prokofiev Piano Concerto No. 3,Modest Mussorgsky; Bohuslav Martinu; Sergei Prokofiev,Pittsburgh Symphony Orchestra ,1/13/24,Petr Popelka,Heinz Hall ,"Pittsburgh, PA",Yulianna Avdeeva (piano),Audience,10
-Dvorak Symphony No. 7; musica pyralis; Shostakovich Cello Concerto No. 1,Anton Dvorak; Katherine Balch; Dmitri Shostakovich ,Pittsburgh Symphony Orchestra ,2/18/24,Manfred Honeck ,Heinz Hall ,"Pittsburgh, PA",Pablo Ferrández (cello),Audience,10
+Dvorak Symphony No. 7; musica pyralis; Shostakovich Cello Concerto No. 1,Anton Dvorak; Katherine Balch; Dmitri Shostakovich ,Pittsburgh Symphony Orchestra ,2/18/24,Manfred Honeck ,Heinz Hall ,"Pittsburgh, PA",Pablo Ferr√°ndez (cello),Audience,10
 Rachmaninoff Piano Concerto No. 3; Liszt Dante Symphony ,Sergei Rachmaninoff; Franz Liszt,Pittsburgh Symphony Orchestra ,4/19/24,Manfred Honeck ,Heinz Hall ,"Pittsburgh, PA",Leif Ove Andsnes (piano); The Mendelssohn Choir of Pittsburgh,Audience,10
-An American in Paris; Suite from Ma Mère l'Oye (Mother Goose); Piano Concerto for the Left Hand; Suite from Les biches (The Does),George Gershwin; Maurice Ravel; Maurice Ravel; Francis Poulenc,Pittsburgh Symphony Orchestra ,5/19/24,Stéphane Denève,Heinz Hall ,"Pittsburgh, PA",Cédric Tiberghien (piano),Audience,10
-Symphony No. 3,Gustav Mahler ,Philadelphia Orchestra ,10/4/24,Yannick Nézet-Séguin,Marian Anderson Hall,"Philadelphia, PA",Joyce DiDonato (Mezzo-Soprano),Audience,30
+An American in Paris; Suite from Ma M√®re l'Oye (Mother Goose); Piano Concerto for the Left Hand; Suite from Les biches (The Does),George Gershwin; Maurice Ravel; Maurice Ravel; Francis Poulenc,Pittsburgh Symphony Orchestra ,5/19/24,St√©phane Den√®ve,Heinz Hall ,"Pittsburgh, PA",C√©dric Tiberghien (piano),Audience,10
+Symphony No. 3,Gustav Mahler ,Philadelphia Orchestra ,10/4/24,Yannick N√©zet-S√©guin,Marian Anderson Hall,"Philadelphia, PA",Joyce DiDonato (Mezzo-Soprano),Audience,30
 Carpiccio Espagnol; Symphony No.3; Symphonic Dances,Nikolai Rimsky-Korsakov; Florence Price; Sergei Rachmaninoff,Penn Medicine Symphony Orchestra ,12/8/24,,Irvine Theatre ,"Philadelphia, PA",,Audience,
-The Music of Joe Hisaishi: Symphony No. 2; Saga for Viola and Orchestra; Suite from Spirited Away,Joe Hisaishi,Philadelphia Orchestra ,1/4/25,Joe Hisaishi,Marian Anderson Hall,"Philadelphia, PA",Choong-Jin Chang,Audience,95
-Ocenas; Violin Concerto No. 2; The Oceanides; La Mer,,Pittsburgh Symphony Orchestra ,TBD,Maria Huld Markan Sigfusdottir; Sergei Prokofiev; Jean Sibelius; Claude Debussy,Heinz Hall ,"Pittsburgh, PA",Vadim Gluzman (violin),Audience,TBD
+Ocenas; Violin Concerto No. 2; The Oceanides; La Mer,,Pittsburgh Symphony Orchestra ,1/11/25,Maria Huld Markan Sigfusdottir; Sergei Prokofiev; Jean Sibelius; Claude Debussy,Heinz Hall ,"Pittsburgh, PA",Vadim Gluzman (violin),Audience,20
 Symphony No. 6 (Pathetique); Suite No. 2 from Daphnis et Chloe; Graal Theatre for violin and orchestra ,Pyotr Ilyich Tchaikovsky; Maurice Ravel; Kaija Saariacho,Philadelphia Orchestra ,1/26/25,Rafael Payare,Marian Anderson Hall,"Philadelphia, PA",,Audience,30
+The Music of Joe Hisaishi: Symphony No.2; Saga for Viola and Orchestra; Suite from Spirited Away,Joe Hisaishi,Philadelphia Orchestra ,6/26/25,Joe Hisaishi,Marian Anderson Hall,"Philadelphia, PA",Choong-Jin Chang,Audience,95
+An Alpine Symphony; Une Barque sur l'océan; Violin Concerto No. 1,Richard Strauss; Maurice Ravel; Max Bruch,Philadelphia Orchestra ,10/11/25,Stéphane Denève,Marian Anderson Hall,"Philadelphia, PA",,Audience,29
+"Symphony No. 4 ""Romantic""; Sinfonia concertante, for winds and orchestra",Anton Bruckner; Wolfgang Amadeus Mozart,Philadelphia Orchestra ,10/18/25,Esa-Pekka Salonen,Marian Anderson Hall,"Philadelphia, PA",,Audience,38
+Symphony No. 5; Symphonie espagnole; Orchestral Suite from Fire Shut Up in My Bones,Jean Sibelius; Edouard Lalo; Terence Blanchard,Philadelphia Orchestra ,11/29/25,Yannick N√©zet-S√©guin,Marian Anderson Hall,"Philadelphia, PA",María Dueñas ,Audience,38

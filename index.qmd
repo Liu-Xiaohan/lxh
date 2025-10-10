@@ -1,14 +1,18 @@
 ---
-title: "Xiaohan Liu"
+title: ""
+format:
+  html:
+    css: styles.css 
 ---
 
-
+::: {.profile-container}
 ![](images/profile-picture.jpg){.profile-img}
+**Xiaohan Liu**
 
+[CV](docs/Margot_CV.pdf) · [ORCID](https://orcid.org/0000-0000-0000-0000)
+:::
 
-I am a first-year Biostatistics PhD student at the University of Pennsylvania broadly interested in topics surrounding assumption-lean inference.
-
-Some words that catch my attention are *causality*, *distributional shifts*,  *distribution free*, and *post-selection inference*. 
+I am a second-year Biostatistics PhD student at the University of Pennsylvania broadly interested in causal inference. Some words that catch my attention are *efficiency*, *assumption-lean*, and  *personalized/precision medicine*. I am foruntate to be advised by --- and ---
 
 
 Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University.
@@ -21,7 +25,7 @@ For chats about research ideas, potential collaborations, music, or <a href=http
 ### Education
 
 - **PhD in Biostatistics**  
-  The University of Pennsylvania, TBD
+  The University of Pennsylvania, expected 2029
 - **BS in Statistics and Data Science (Mathematical Sciences Track)**  
   Carnegie Mellon University, May 2024
 
