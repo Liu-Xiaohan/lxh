@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "lxh",
     "section": "",
-    "text": "My name is Xiaohan, I am a second-year Biostatistics PhD student at the University of Pennsylvania. My interests lie broadly in causal inference, particularly in methods that require as few assumptions on the data generating mechanism as possible. Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University where I was fortunate to have received a wonderful undergraduate statistics education.\nFor chats about research and potential collaborations, music, or books, feel free to reach out at liuxh[at]upenn[dot]edu!\n\n\nEducation\n\nPhD in Biostatistics\nThe University of Pennsylvania, Expected 2029\nBS in Statistics and Data Science (Mathematical Sciences Track)\nCarnegie Mellon University, May 2024\n\n\n\nI took inspiration for this website from others!"
+    "text": "My name is Xiaohan Liu, I am a second-year Biostatistics PhD student at the University of Pennsylvania. My interests lie broadly in causal inference, particularly in methods that require making little assumptions on the data generating mechanism. Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University where I was fortunate to have received a wonderful undergraduate statistics education.\nTo chat about research and potential collaborations, music, or books, feel free to reach out at liuxh[at]upenn[dot]edu.\n\n\nEducation\n\nPhD in Biostatistics\nThe University of Pennsylvania, Expected 2029\nBS in Statistics and Data Science (Mathematical Sciences Track)\nCarnegie Mellon University, May 2024\n\n\n\nI took inspiration for this website from others!"
   },
   {
     "objectID": "presentation.html",
@@ -18,7 +18,7 @@
     "href": "music.html",
     "title": "Music",
     "section": "",
-    "text": "I played flute in my middle school band, high school marching band, wind ensemble, full orchestra, TMEA Region Band, Orchestra, and All-State Band. During my years at CMU, I was lucky to continue playing as part of the All-University Orchestra.\nI primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorite composers are Jean Sibelius, The Mighty Five, Pyotr Ilyich Tchaikovsky, Sergei Rachmaninoff, and Maurice Ravel. Recently, I have been interested in Richard Strauss’ An Alpine Symphony and Gustav Mahler’s epic Symphonies No. 1, 2, and 3. I also enjoy listening to piano concertos and Studio Ghibli soundtracks."
+    "text": "I played flute in my middle school band, high school marching band, wind ensemble, full orchestra, TMEA Region Band, Orchestra, and All-State Band. During my years at CMU, I was lucky to continue playing as part of the All-University Orchestra.\nI primarily enjoy middle to late romantic, impressionist, and modern composers. Some of my favorite composers are Jean Sibelius, The Mighty Five, Pyotr Ilyich Tchaikovsky, Sergei Rachmaninoff, and Maurice Ravel. Recently, I have been interested in Richard Strauss’ An Alpine Symphony and Sibelius Symphonies No. 5 and 7. I also enjoy listening to piano concertos, Studio Ghibli soundtracks, and Ryuichi Sakamoto."
   },
   {
     "objectID": "music.html#concerts",
@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "TBD"
+    "text": "Regularized greedy gradient Q-learning."
   },
   {
     "objectID": "apples.html",

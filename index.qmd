@@ -12,9 +12,9 @@ format:
     css: styles.css
 ---
 
-My name is Xiaohan Liu, I am a second-year Biostatistics PhD student at the University of Pennsylvania. My interests lie broadly in causal inference, particularly in methods that require as few assumptions on the data generating mechanism as possible. Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University where I was fortunate to have received a wonderful undergraduate statistics education. 
+My name is Xiaohan Liu, I am a second-year Biostatistics PhD student at the University of Pennsylvania. My interests lie broadly in causal inference, particularly in methods that require making little assumptions on the data generating mechanism. Before joining the PhD program, I obtained my BS in Statistics and Data Science from Carnegie Mellon University where I was fortunate to have received a wonderful undergraduate statistics education. 
 
-For chats about research and potential collaborations, music, or <a href=https://www.goodreads.com/user/show/159086831-xiaohan>books</a>, feel free to reach out at liuxh[at]upenn[dot]edu!
+To chat about research and potential collaborations, music, or <a href=https://www.goodreads.com/user/show/159086831-xiaohan>books</a>, feel free to reach out at liuxh[at]upenn[dot]edu. 
 
 <br>
 
